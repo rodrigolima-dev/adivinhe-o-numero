@@ -5,7 +5,7 @@
 <h1>
     <img src="images/image.png"/>
     <h3 align="center">
-        <a href="">VEJA O PROJETO</a>
+        <a href="https://rodrigolima-dev.github.io/jogo-da-adivinha-o/">VEJA O PROJETO</a>
     <h3/>
 <h1/>
 
