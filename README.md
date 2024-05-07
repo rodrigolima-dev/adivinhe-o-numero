@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="image.png"/>
+    <img src="images/image.png"/>
     <h3 align="center">
         <a href="">VEJA O PROJETO</a>
     <h3/>
